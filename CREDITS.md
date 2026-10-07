@@ -4,7 +4,7 @@ The scrolling treatment is adapted from [icon marquee](https://github.com/gian-g
 
 Figma, Claude, Codex, Cursor, Adobe XD, Sketch, CSS, and HTML artwork comes from [skills icons](https://github.com/syvixor/skills-icons), as distributed by icon marquee.
 
-Jitter, Principle, Adobe Creative Cloud, After Effects, and Framer artwork was supplied by Khang.
+Jitter, Principle, Adobe Creative Cloud, After Effects, Framer, GSAP, and Motion artwork was supplied by Khang.
 
 The original artwork colors and shapes are preserved. SVG attribute names, internal IDs, icon dimensions, and theme selectors were adapted for this combined image.
 
